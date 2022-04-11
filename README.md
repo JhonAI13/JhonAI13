@@ -1,4 +1,4 @@
-<span>
+<samp>
 <a href="https://github.com/JhonAI13">
 
   <p align="center"><img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=JhonAI13&theme=dark" alt="JhonAI13" /></p>
@@ -10,4 +10,4 @@
 
 </a>
   
-</span>
+</samp>
