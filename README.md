@@ -1,19 +1,12 @@
-# Jonathas Martins
-<!-- 
-# Luiz Gasparetto
-<div align="left">
-  <a href="https://github.com/luizgasp">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizgasp&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizgasp&layout=compact&langs_count=7&theme=dark"/>
-</div> -->
+# <p align="center"><samp>Olá Mundo! Eu sou o Jonathas.</samp></p>
   
 </samp>
 <a href="https://github.com/JhonAI13"  style="padding:0px;">
 
-  <p align="center"><img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=JhonAI13&theme=dark" alt="JhonAI13"  style="padding:0px;"/></p>
+  <p align="center"><img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=JhonAI13&theme=midnight-purple" alt="JhonAI13"/></p>
   <p align="center" >
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JhonAI13&show_icons=true&theme=dark&include_all_commits=true&count_private=true" style="padding:0px;"/>
-  <img height="180em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonAI13&layout=compact&langs_count=7&theme=dark" style="padding:0px;"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=JhonAI13&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+<img height="160em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonAI13&layout=compact&langs_count=7&theme=midnight-purple"/>
   </p>
 </a>
 
