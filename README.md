@@ -1,27 +1,21 @@
 # <p align="center"><samp>Olá Mundo! Eu sou o Jonathas.</samp></p>
 
-<a href="https://github.com/JhonAI13"  style="padding:0px;">
-
-  <p align="center"><img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=JhonAI13&theme=midnight-purple" alt="JhonAI13"/></p>
   <p align="center" >
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=JhonAI13&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide=stars,prs,issues,contribs"/>
-<img height="160em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonAI13&layout=compact&langs_count=7&theme=midnight-purple"/>
+    <img height="180vw" src="https://github-readme-streak-stats.herokuapp.com/?user=JhonAI13&theme=midnight-purple&date_format=j/n&border=ffffff&bacgraund=000000&stroke=ffffff&ring=E89E3C&fire=E89E3C&currStreakNum=DFBE2A&sideNums=DFBE2A&currStreakLabel=ffffff&sideLabels=ffffff" alt="JhonAI13"/>
+    <img height="180vw"src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonAI13&layout=compact&langs_count=7&theme=midnight-purple&title_color=DFBE2A&border_color=6B7878&bg_color=000000&border_radius=1px"/>
   </p>
-</a>
 
  ### Linguagens:
-
-<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  style="padding-right:10px;"/>
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-
+ 
+<img align="left" alt="Python" width="110px" src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=darkcyan"/>
+<img align="left" alt="HTML5" width="100px" src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=orange"/>
+<img align="left" alt="CSS3" width="90px" src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=blue" />
+<img align="left" alt="JavaScript" width="150px" src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 </br>
 
 ### Feramentas:
 
-<img align="left" alt="PyCharm" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg"  style="padding-right:10px;"/>     
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />
+<img align="left" alt="PyCharm" width="130px" src="https://img.shields.io/badge/Pycharm-000000?style=for-the-badge&logo=Pycharm&logoColor=green"/>     
+<img align="left" alt="Visual Studio Code" width="120px" src="https://img.shields.io/badge/VScode-000000?style=for-the-badge&logo=Visual Studio Code&logoColor=blue"/>
+<img align="left" alt="Git" width="87px" src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=Git&logoColor=orange"/>
+<img align="left" alt="GitHub" width="125px" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white"/>
