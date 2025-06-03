@@ -13,7 +13,7 @@
   
 <h3>Projetos</h3>
 
-Todos os meus projetos ficam [aqui](https://github.com/JhonAI13/JhonAI13/Projetos) caso queiram ver melhor minha trajetória. 
+Todos os meus projetos ficam [aqui](https://github.com/JhonAI13/JhonAI13/tree/main/Projetos) caso queiram ver melhor minha trajetória. 
 
 
 <h5>Projetos em destaque</h5>
