@@ -1,0 +1,8 @@
+# Machine Learning e IA
+
+| Nome | Descrição do Projeto |
+|---|---|
+| [Análise de Churn e Segmentação de Clientes - Academia "Model Fitness"](https://github.com/JhonAI13/Sprints/tree/main/Sprint%2013) | Desenvolvi um estudo completo para a academia "Model Fitness", construindo modelos de Machine Learning (Random Forest e Regressão Logística) para prever a evasão de clientes. O projeto também inclui a segmentação de clientes com K-Means para identificar perfis de risco e a formulação de recomendações estratégicas para aumentar a retenção. |
+| [Ferramenta de Transcrição e Análise de Vídeos](https://github.com/JhonAI13/video_txt) | Criei um pipeline automatizado que extrai o áudio de arquivos de vídeo, realiza a transcrição usando o modelo Whisper da OpenAI e formata o texto como legendas. A ferramenta otimiza o processo de criação de conteúdo e análise de material audiovisual. |
+| [Avaliador de Complexidade de Textos](https://github.com/JhonAI13/Avaliador_de_livros) | Desenvolvi uma ferramenta de NLP que analisa o conteúdo de livros em PDF, extrai a frequência de palavras e avalia a complexidade do vocabulário. O resultado é exportado para uma planilha Excel, servindo como um recurso para análise literária ou auxílio no estudo de idiomas. |
+| [Sumarizador de Textos](https://github.com/JhonAI13/Resumidor) | Implementei um algoritmo de sumarização extrativa que identifica e seleciona as frases mais relevantes de um texto. Este projeto de NLP demonstra a capacidade de processar linguagem natural para condensar informações e otimizar a leitura. |
