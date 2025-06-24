@@ -13,17 +13,21 @@
   
 <h3>Projetos</h3>
 
-Todos os meus projetos ficam [aqui](https://github.com/JhonAI13/JhonAI13/tree/main/Projetos) caso queiram ver melhor minha trajetória. 
+Navegue pela minha trajetória através de projetos em [Análise Estatística](https://github.com/JhonAI13/JhonAI13/tree/main/Projetos/An%C3%A1lise%20Estat%C3%ADstica) | [Machine Learning e IA](https://github.com/JhonAI13/JhonAI13/tree/main/Projetos/Machine%20Learning%20e%20IA) | [Visualização de Dados](https://github.com/JhonAI13/JhonAI13/tree/main/Projetos/Visualiza%C3%A7%C3%A3o%20de%20Dados).
 
 
 <h5>Projetos em destaque</h5>
 
-|Nome|Tecnologias|Descrição para README|
-|---|---|---|
-|[Simulação de Lançamento de Moeda com Streamlit](https://github.com/JhonAI13/Site_DA)|Python, Streamlit, SciPy, Pandas|App em Streamlit que simula lançamentos de moeda (Bernoulli), exibindo gráfico em tempo real para demonstrar a Lei dos Grandes Números.|
-|[Análise de Dados de Restaurantes nos EUA](https://github.com/JhonAI13/Sprints/tree/main/sprint%2010 "sprint 10")|Python, Pandas, NumPy, Matplotlib, Seaborn, SciPy, Plotly Express, PowerPoint, Kaleido, Jupyter Notebook, CSV|AED geoespacial de restaurantes nos EUA, com Plotly para mapas e gráficos, e exportação automática de slides em PowerPoint.|
-|[Multpesquisador](https://github.com/JhonAI13/Multpesquisador)|Python, webbrowser, time, sys, arquivos TXT|CLI que abre múltiplas abas de pesquisa simultâneas em sites configuráveis (Google, Tradutor, Wikipedia etc.) e salva preferências em arquivo de texto.|
+| Nome | Tecnologias | Descrição para README |
+| :--- | :--- | :--- |
+| [Análise de Otimização de Recomendações e Insights do Mercado Editorial](https://github.com/JhonAI13/Sprints/tree/main/Projeto%20final) | Python (Pandas, Plotly, Statsmodels, SQLAlchemy), SQL (PostgreSQL), Jupyter Notebook, Tableau Public, Markdown | Projeto integrador com Teste A/B de sistema de recomendação, Análise SQL do mercado editorial e Dashboard interativo no Tableau. |
+| [Projeto de Análise de Churn e Segmentação de Clientes](https://github.com/JhonAI13/Sprints/tree/main/Sprint%2013) | Python, Pandas, NumPy, Matplotlib, Seaborn, Plotly, SciPy, Scikit-learn, Jupyter Notebook, CSV | Análise de churn e segmentação de clientes da academia "Model Fitness". Inclui EDA, modelagem preditiva (Regressão Logística, Random Forest) para prever evasão, clusterização (K-Means) para identificar perfis de clientes e formulação de recomendações estratégicas para retenção. |
+| [Simulação de Lançamento de Moeda com Streamlit](https://github.com/JhonAI13/Site_DA)                                                           | Python, Streamlit, SciPy, Pandas                                                                                            | App em Streamlit que simula lançamentos de moeda (Bernoulli), exibindo gráfico em tempo real para demonstrar a Lei dos Grandes Números.                                                                                            |
 |[Resumidor](https://github.com/JhonAI13/Resumidor)|Python, NLP básico|Implementa sumarização extrativa: tokeniza frases, remove stopwords e escolhe sentenças mais relevantes para gerar resumo.|
+
+### Certificações
+Minha dedicação à área é validada por diversas certificações em Análise de Dados e tecnologias relacionadas, listadas no [certificados](https://www.linkedin.com/in/jonathas-rocha/details/certifications/).
+
 <!-- Linguagens -->
 <h5>Linguagens:</h5>
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">

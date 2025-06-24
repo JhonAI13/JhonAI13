@@ -1,6 +1,5 @@
 # Análise Estatística
 
-
 | Nome | Descrição do Projeto |
 |---|---|
 | [Análise de Teste A/B e Priorização de Hipóteses](https://github.com/JhonAI13/Sprints/tree/main/Sprint%209) | Conduzi uma análise de ponta a ponta de um teste A/B, começando pela priorização de hipóteses com os frameworks RICE e ICE para maximizar o impacto. A análise estatística dos resultados do teste validou o impacto das mudanças, gerando recomendações baseadas em dados para o negócio. |
@@ -11,4 +10,6 @@
 | [Análise de Dados de Streaming de Música](https://github.com/JhonAI13/Sprints/tree/main/sprint%202) | Realizei um estudo comparativo sobre as preferências musicais de usuários em duas cidades, utilizando testes de hipótese para validar as diferenças observadas. O projeto demonstrou a capacidade de extrair insights comportamentais a partir de dados de uso da plataforma. |
 | [Análise de Dados de Corridas de Táxi](https://github.com/JhonAI13/Sprints/tree/main/Sprint%207) | Investiguei um grande volume de dados de corridas de táxi em Chicago para identificar padrões de viagem e preferências. A análise incluiu a comparação do desempenho de diferentes empresas de táxi e a identificação dos bairros de destino mais populares, gerando insights para otimização logística. |
 | [Análise de Pedidos da Instacart](https://github.com/JhonAI13/Sprints/tree/main/sprint%203) | Realizei uma análise exploratória completa em um dataset da Instacart, aplicando técnicas de pré-processamento para lidar com dados ausentes e duplicados. O projeto revelou padrões de compra dos consumidores e gerou visualizações que resumem o comportamento de pedidos. |
-
+| [Avaliação e Preparação de Dados de Clientes](https://github.com/JhonAI13/Sprints/tree/main/sprint%201) | Executei a preparação de dados simulados de e-commerce, focando na manipulação de strings, conversão de tipos e limpeza inicial para garantir a qualidade dos dados para análises futuras. |
+| [Projeto Final de Análise de Dados](https://github.com/JhonAI13/Sprints/tree/main/Projeto%20final) | Desenvolvi um projeto integrador que inclui um Teste A/B em um sistema de recomendação e uma análise SQL do mercado editorial, demonstrando habilidades em análise estatística e consulta a bancos de dados. |
+| [Análise de Metadados de Notas (OBS-to-TXT)](https://github.com/JhonAI13/OBS-to-TXT) | Extraí e estruturei metadados de notas do Obsidian (`.md`), realizando engenharia de features e análise exploratória para descobrir padrões de uso e organização de conhecimento pessoal. |
