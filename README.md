@@ -1,7 +1,7 @@
 # <p align="center"><samp>Olá Mundo! Eu sou o Jonathas.</samp></p>
 <p><samp>Estudando Python pós-pandemia, migrei para análise de dados alinhando habilidades técnicas com uma antiga afinidade por organização estruturada de informações. </p>
   <p align="center" >  
-    <img height="50%"src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonAI13&layout=compact&langs_count=8&theme=midnight-purple&title_color=DFBE2A&border_color=6B7878&bg_color=000000&border_radius=0px"/>
+    <img height="500"src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonAI13&layout=compact&langs_count=8&theme=midnight-purple&title_color=DFBE2A&border_color=6B7878&bg_color=000000&border_radius=0px"/>
   </p>
 <p>Posso analisar coortes, funis de venda, apresentar soluções para problemas de negócios, calcular Indicadores-Chave de Desempenho (KPIs), realizar testes estatísticos, fazer análise econômica, limpar e transformar dados, criar dashboards interativos, explorar padrões com visualizações claras, automatizar tarefas repetitivas, extrair e analisar conteúdos de diferentes fontes, construir pipelines de ETL, trabalhar com dados geoespaciais, aplicar técnicas de linguagem natural e desenvolver interfaces para facilitar a interação com dados.</p>
   
